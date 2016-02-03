@@ -1,0 +1,278 @@
+nav {
+  position: fixed;
+
+}
+
+body{
+  padding-top: 45px;
+
+}
+
+#secondslide {
+  background-color:#E8EDF3;
+
+}
+
+#firstslide {
+  background-color: white;
+
+}
+
+#nav {
+  background-color:white;
+
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+#pic {
+  height:;
+  width:;
+
+}
+
+#red {
+  color:#9F0000;
+
+}
+
+#box0 {
+ height: 615px;
+ max-width: 100%;
+
+}
+
+#sec {
+  text-align: center;
+  padding-top: 10px;
+  padding-left: 40px;
+  color: black;
+
+}
+ #btn {
+  vertical-align: center;
+
+ }
+
+ #box1 {
+ height: 615px;
+ max-width: 100%;
+
+}
+
+ #box2 {
+ height: 615px;
+ max-width: 100%;
+
+}
+
+#box3 {
+ height: 615px;
+ max-width: 100%;
+
+}
+
+#box4 {
+ height: 615px;
+ max-width: 100%;
+
+}
+#footer {
+ height: 135px;
+ max-width: 100%;
+
+}
+
+#thirdslide {
+  background-color:#e6cf8b;
+}
+
+#fourthslide {
+  background-color:#040707;
+}
+
+#text1{
+  color:black;
+}
+
+#text2 {
+  color:#9F0000;
+}
+
+#aboutme {
+  color:white;
+  text-align: left;
+}
+
+#visual {
+  color:white;
+}
+
+#scroll1 {
+  height: 45px;
+  background-color:#e6cf8b;
+}
+
+#scroll0 {
+  height: 45px;
+  background-color:#E8EDF3;
+}
+
+#scroll2 {
+  height: 45px;
+  background-color:#040707;
+}
+
+#scroll3 {
+  height: 45px;
+  background-color:white;
+}
+
+#scroll4 {
+  height: 45px;
+  background-color:yellow;
+}
+
+#slide3 {
+  background-color:white;
+}
+
+#slide4 {
+  background-color: yellow;
+}
+#slide5 {
+  background-color: black;
+}
+
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+color:#9F0000;  /*Sets the text hover color on navbar*/
+background-color:#ECECEC; /*hover color*/
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active >   
+ a:hover, .navbar-default .navbar-nav > .active > a:focus {
+color:black; /*BACKGROUND color for active*/
+background-color:white;
+}
+
+.navbar-default {
+    background-color:#0f006f;
+    border-color: #030033;
+}
+
+.dropdown-menu > li > a:hover {
+  color:#9F0000;
+}
+.dropdown-menu > li > a:focus {
+color:black;
+text-decoration: none;
+background-color:#9F0000;  /*change color of links in drop down here*/
+}
+
+.nav > li > a:hover,
+.nav > li > a:focus {
+text-decoration: none;
+background-color: yellow; /*Change rollover cell color here*/
+}
+.navbar-nav> li > a {
+  color: black;
+}
+
+.navbar-default .navbar-nav > li > a {
+color: black; /*Change active text color here*/
+}
+
+.navbar-default .dropdown-menu{
+  background-color: white;
+}
+
+.navbar-default .dropdown-menu>li>a,
+.navbar-default .dropdown-menu>li>a:focus {
+    color:black;x
+}
+
+.navbar-default .dropdown-menu>li>a:hover {
+  color: white;
+}
+
+#vid {
+  padding-top: 25px;
+  /*visibility: hidden;*/
+}
+
+#rb {
+  padding-bottom: 120px;
+}
+
+#sg {
+  /*padding-top: -300px;*/
+  margin-top: 38px;
+}
+
+#vid:hover {
+ transform: scale(1.4);
+ z-index: 18;  
+}
+
+#vid {
+transition: all .2s ease-in-out;
+}
+
+#bg {
+  background-color:black;
+}
+
+#de {
+  margin-top:4px;
+  transform:scale(0.3);
+}
+
+#vidd {
+  width: 100%    !important;
+  height: auto   !important;
+}
+
+#modalbody {
+  background-color:white;
+}
+
+#mymodallabel {
+  background-color: white;
+  color: black;
+}
+
+#test4 {
+  visibility: hidden;
+}
+
+#intoheader {
+  /*visibility: hidden;*/
+  font-family: gill sans;
+}
+#icons {
+  /*transform:scale(0.2);*/
+  /*visibility: hidden;*/
+}
+#skills {
+  vertical-align: center;
+  text-align: center;
+}
+
+#navname {
+  margin-left: 180px;
+  visibility: hidden;
+}
+#intro2 {
+  font-family: gill sans;
+  /*font-family:copperplate;*/
+  /*font-size: 50px;*/
+}
+#block {
+  background-color: black;
+  height: 2px;
+  width: 35%;
+}
