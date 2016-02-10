@@ -40,7 +40,7 @@ img {
 }
 
 #box0 {
- height: 615px;
+ height: 620px;
  max-width: 100%;
 
 }
@@ -58,25 +58,25 @@ img {
  }
 
  #box1 {
- height: 615px;
+ height: 620px;
  max-width: 100%;
 
 }
 
  #box2 {
- height: 615px;
+ height: 620px;
  max-width: 100%;
 
 }
 
 #box3 {
- height: 615px;
+ height: 620px;
  max-width: 100%;
 
 }
 
 #box4 {
- height: 615px;
+ height: 620px;
  max-width: 100%;
 
 }
@@ -112,27 +112,27 @@ img {
 }
 
 #scroll1 {
-  height: 45px;
+  height: 54px;
   background-color:#e6cf8b;
 }
 
 #scroll0 {
-  height: 45px;
+  height: 54px;
   background-color:#E8EDF3;
 }
 
 #scroll2 {
-  height: 45px;
+  height: 54px;
   background-color:#040707;
 }
 
 #scroll3 {
-  height: 45px;
+  height: 54px;
   background-color:white;
 }
 
 #scroll4 {
-  height: 45px;
+  height: 54px;
   background-color:yellow;
 }
 
@@ -252,6 +252,7 @@ transition: all .2s ease-in-out;
 #intoheader {
   /*visibility: hidden;*/
   font-family: gill sans;
+  text-align: center;
 }
 #icons {
   /*transform:scale(0.2);*/
@@ -263,16 +264,19 @@ transition: all .2s ease-in-out;
 }
 
 #navname {
-  margin-left: 180px;
+  /*margin-left: 180px;*/
+  margin-left: 110px;
   visibility: hidden;
 }
 #intro2 {
   font-family: gill sans;
   /*font-family:copperplate;*/
   /*font-size: 50px;*/
+  text-align: center;
 }
 #block {
   background-color: black;
   height: 2px;
   width: 35%;
+  margin-left: 366px;
 }
